@@ -5,7 +5,7 @@ This is a sanitized version;
 - Only the code supporting the movement demo video is included.
 - It is as close to the version in the video otherwise.
 
-'Point-casting' is an example of a more straightforward implementation; as it's requirements were easier to define from the start. 
+['Point-casting'](https://github.com/ucanluc/player-animation/blob/75eec4ecbb7a6c39e46b72a3a0b4fa3b247dea7c/Assets/Scripts/Common/PointCasting/RaPointCastSnapshot.cs#L11C18-L11C37) is an example of a more straightforward implementation; as it's requirements were easier to define from the start. 
 
 Most of the movement/animation scripts were made over time through experimentation.
 
