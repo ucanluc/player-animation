@@ -16,3 +16,4 @@ I would love to hear feedback about that thing.
 
 - [Car model is from this free asset](https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085)
 - [Standart driving is modified from this free asset](https://assetstore.unity.com/packages/tools/physics/prometeo-car-controller-209444)  
+- Last opened in Unity version 2022.3.10f1
